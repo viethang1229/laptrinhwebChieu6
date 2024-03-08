@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 đây là file tạo brand main và wweek
+=======
+đây là file tạo brand chỉ có week1 mà thôi
+>>>>>>> week1
